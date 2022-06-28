@@ -6,8 +6,6 @@
 # Praktikum 2 | CSS Dasar
 
 ## Langkah langkah praktikum 2
-Membuka text editor, Disini saya menggunakan Atom
-![img1!](1.PNG)
 
 ## 1. Membuat Dokumen HTML
 ![img1!](assets/img/1.PNG)
